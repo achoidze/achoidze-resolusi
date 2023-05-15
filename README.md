@@ -1,2 +1,2 @@
 # achoidze-resolusi
-Rencana untuk mempelajari Front End Web Developer
+Repository rencana untuk mempelajari Front End Web Developer
